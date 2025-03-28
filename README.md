@@ -1,1 +1,3 @@
 # ODL
+
+Two predictive neural network models are employed in this study: the Long Short-Term Memory (LSTM) model and a Convolutional Neural Network-Long Short-Term Memory (CNN-LSTM) Hybrid model. The LSTM model, a variant of Recurrent Neural Networks (RNNs), is designed to effectively handle sequential data by capturing long-term dependencies and patterns over time. The CNN-LSTM hybrid model leverages the strengths of Convolutional Neural Networks (CNNs) in feature extraction and combines them with the temporal learning capabilities of LSTMs, making it well-suited for complex time-series data like stock prices.
